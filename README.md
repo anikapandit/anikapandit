@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anikapandit
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning at D Y Patil International University
+- 🌱 I’m currently learning Btech CSE at D Y Patil International University
 - 📫 How to reach me : anikap2584@gmail.com
 
 <!---
